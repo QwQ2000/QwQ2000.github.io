@@ -5,12 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+  - **张嘉淏**, 刘峰, 齐佳音 <br> 
+  一种基于 Bottleneck Transformer 的轻量级微表情识别架构 <br>
+  **计算机科学 (CSCD / CCF-B Chinese Journal)**, 2022. [[pdf](https://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=20830)]
 
-{% include base_path %}
+  - Feng Liu, Hanyang Wang, **Jiahao Zhang**, Ziwang Fu, Aimin Zhou, Jiayin Qi, Zhibin Li <br>
+  EvoGAN: An evolutionary computation assisted GAN <br>
+  **Neurocomputing (SCI, JCR Q1)**, 2022. [[pdf](https://arxiv.org/pdf/2110.11583)]
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+  - **Jiahao Zhang**, Feng Liu, Aimin Zhou <br>
+  Off-TANet: A Lightweight Neural Micro-expression Recognizer with Optical Flow Features and Integrated Attention Mechanism <br>
+  **PRICAI'21 (CCF-C Conference)**, 2021. [[pdf](https://www.researchgate.net/profile/Feng-Liu-152/publication/355545710_Off-TANet_A_Lightweight_Neural_Micro-expression_Recognizer_with_Optical_Flow_Features_and_Integrated_Attention_Mechanism/links/6178fcba0be8ec17a93664e0/Off-TANet-A-Lightweight-Neural-Micro-expression-Recognizer-with-Optical-Flow-Features-and-Integrated-Attention-Mechanism.pdf)]
+
+  - Ziwang Fu, Feng Liu, **Jiahao Zhang**, Hanyang Wang, Chengyi Yang, Qing Xu, Jiayin Qi, Xiangling Fu, Aimin Zhou <br>
+  SAGN: semantic adaptive graph network for skeleton-based human action recognition <br>
+  **ICMR'21 (CCF-B Conference)**, 2021.[[pdf](https://www.researchgate.net/profile/Feng-Liu-152/publication/354304339_SAGN_Semantic_Adaptive_Graph_Network_for_Skeleton-Based_Human_Action_Recognition/links/61d2dce4e669ee0f5c818acc/SAGN-Semantic-Adaptive-Graph-Network-for-Skeleton-Based-Human-Action-Recognition.pdf?origin=searchReact&_iepl%5BgeneralViewId%5D=q5haym7Z9LJ9U0XffDJDArOrOtBdNQxFM7Tf&_iepl%5Bcontexts%5D%5B0%5D=searchReact&_iepl%5BviewId%5D=U1L0cjeYB2aCl2YCM7w6DrzS4k6Nrah84FeN&_iepl%5BsearchType%5D=publication&_iepl%5Bdata%5D%5BcountLessEqual20%5D=1&_iepl%5Bdata%5D%5BinteractedWithPosition1%5D=1&_iepl%5Bdata%5D%5BwithEnrichment%5D=1&_iepl%5Bposition%5D=1&_iepl%5BrgKey%5D=PB%3A354304339&_iepl%5BinteractionType%5D=publicationDownload)]

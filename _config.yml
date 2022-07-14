@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "QwQ2000"
+title                    : "Jiahao Zhang (QwQ2000)"
 title_separator          : "-"
 name                     : &name "Jiahao Zhang"
 description              : &description "An M.Phil. Student at PolyU"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiahao Zhang"
   avatar           : "profile.png"
-  bio              : "An M.Phil. Student at PolyU"
+  bio              : "M.Phil. Student @ PolyU"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
