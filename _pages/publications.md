@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+  - Feng Liu, Hanyang Wang, Siyuan Shen, Xun Jia, Jingyi Hu, **Jiahao Zhang**, et al. <br>
+  OPO-FCM: A Computational Affection Based OCC-PAD-OCEAN Federation Cognitive Modeling Approach <br>
+  **IEEE Transactions on Computational Social Systems (SCI, JCR Q1)**, 2022. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9868797)]
+
   - **张嘉淏**, 刘峰, 齐佳音 <br> 
   一种基于 Bottleneck Transformer 的轻量级微表情识别架构 <br>
   **计算机科学 (CSCD / CCF-B Chinese Journal)**, 2022. [[pdf](https://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=20830)]
