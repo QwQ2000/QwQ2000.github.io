@@ -22,3 +22,9 @@ Data Mining and Machine Learning, with a particular focus on:
   - Recommender Systems
   - Trustworthy Machine Learning
   - CV, Affective Computing, etc.
+
+Professional Services
+======
+- PC Member of AAAI'23
+- Reviewer of International Workshop on Learning with Knowledge Graphs @ WSDM'23
+- Subreviewer of CIKM'22, WSDM'23, TheWebConf'23
