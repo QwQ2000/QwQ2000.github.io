@@ -26,5 +26,6 @@ Data Mining and Machine Learning, with a particular focus on:
 Professional Services
 ======
 - PC Member of AAAI'23, AAAI'24
+- Reviewer of ACM Transactions on Knowledge Discovery from Data (TKDD)
 - Reviewer of International Workshop on Learning with Knowledge Graphs @ WSDM'23
 - Subreviewer of CIKM'22, WSDM'23, TheWebConf'23
