@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-  - Jiahao Zhang\*, Rui Xue\*, Wenqi Fan, Xu Xin, Qing Li, Jian Pei, Xiaorui Liu  <br>
+  - *Jiahao Zhang\**, Rui Xue\*, Wenqi Fan, Xu Xin, Qing Li, Jian Pei, Xiaorui Liu  <br>
   Linear-Time Graph Neural Networks for Scalable Recommendations <br>
   **\[To Appear\] The Web Conference (Acceptance Rate: 20.2%)**, 2024. 
   
