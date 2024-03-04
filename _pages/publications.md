@@ -6,11 +6,11 @@ author_profile: true
 ---
   - **Jiahao Zhang**, Wenqi Fan<br>
   Graph Unlearning for Graph Neural Networks <br>
-  **WWW'24 (PhD Symposium)**, 2024.
+  **The Web Conference (WWW'24)**, 2024, PhD Symposium.
 
   - **Jiahao Zhang\***, Rui Xue\*, Wenqi Fan, Xu Xin, Qing Li, Jian Pei, Xiaorui Liu  <br>
   Linear-Time Graph Neural Networks for Scalable Recommendations <br>
-  **WWW'24**, 2024. [[pdf](https://arxiv.org/pdf/2402.13973.pdf)]
+  **The Web Conference (WWW'24**), 2024. [[pdf](https://arxiv.org/pdf/2402.13973.pdf)]
   
   - Feng Liu, Hanyang Wang, Siyuan Shen, Xun Jia, Jingyi Hu, **Jiahao Zhang**, et al. <br>
   OPO-FCM: A Computational Affection Based OCC-PAD-OCEAN Federation Cognitive Modeling Approach <br>
