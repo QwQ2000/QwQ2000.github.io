@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-  - **Jiahao Zhang**, Wenqi Fan<br>
-  Graph Unlearning for Graph Neural Networks <br>
+  - **Jiahao Zhang**, Lin Wang, Shijie Wang, Wenqi Fan<br>
+  Graph Unlearning with Efficient Partial Retraining <br>
   **The Web Conference (WWW'24)**, 2024, PhD Symposium.
 
   - **Jiahao Zhang\***, Rui Xue\*, Wenqi Fan, Xu Xin, Qing Li, Jian Pei, Xiaorui Liu  <br>
