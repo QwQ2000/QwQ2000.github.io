@@ -6,7 +6,7 @@ author_profile: true
 ---
   - **Jiahao Zhang**, Lin Wang, Shijie Wang, Wenqi Fan<br>
   Graph Unlearning with Efficient Partial Retraining <br>
-  **The Web Conference (WWW'24)**, 2024, PhD Symposium.
+  **The Web Conference (WWW'24)**, 2024, PhD Symposium. [[pdf](https://arxiv.org/pdf/2403.07353.pdf)]
 
   - **Jiahao Zhang\***, Rui Xue\*, Wenqi Fan, Xu Xin, Qing Li, Jian Pei, Xiaorui Liu  <br>
   Linear-Time Graph Neural Networks for Scalable Recommendations <br>
