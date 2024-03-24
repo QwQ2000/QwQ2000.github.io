@@ -12,7 +12,7 @@ author_profile: true
   Linear-Time Graph Neural Networks for Scalable Recommendations <br>
   **The Web Conference (WWW'24**), 2024. [[pdf](https://arxiv.org/pdf/2402.13973.pdf)]
   
-  - Feng Liu, Hanyang Wang, Siyuan Shen, Xun Jia, Jingyi Hu, **Jiahao Zhang**, et al. <br>
+  - Feng Liu, Hanyang Wang, Siyuan Shen, Xun Jia, Jingyi Hu, **Jiahao Zhang**, Xiyi Wang, Ying Lei, Aimin Zhou, Jiayin Qi, Zhibin Li <br>
   OPO-FCM: A Computational Affection Based OCC-PAD-OCEAN Federation Cognitive Modeling Approach <br>
   **IEEE Transactions on Computational Social Systems (SCI, JCR Q1)**, 2022. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9868797)]
 
