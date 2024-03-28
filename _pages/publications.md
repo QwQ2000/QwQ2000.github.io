@@ -10,7 +10,7 @@ author_profile: true
 
   - **Jiahao Zhang\***, Rui Xue\*, Wenqi Fan, Xu Xin, Qing Li, Jian Pei, Xiaorui Liu  <br>
   Linear-Time Graph Neural Networks for Scalable Recommendations <br>
-  **The Web Conference (WWW'24**), 2024. [[pdf](https://arxiv.org/pdf/2402.13973.pdf)]
+  **The Web Conference (WWW'24**), 2024. [[pdf](https://arxiv.org/pdf/2402.13973.pdf)] [[code](https://github.com/QwQ2000/TheWebConf24-LTGNN-PyTorch)]
   
   - Feng Liu, Hanyang Wang, Siyuan Shen, Xun Jia, Jingyi Hu, **Jiahao Zhang**, Xiyi Wang, Ying Lei, Aimin Zhou, Jiayin Qi, Zhibin Li <br>
   OPO-FCM: A Computational Affection Based OCC-PAD-OCEAN Federation Cognitive Modeling Approach <br>
@@ -18,7 +18,7 @@ author_profile: true
 
   - **张嘉淏**, 刘峰, 齐佳音 <br> 
   一种基于 Bottleneck Transformer 的轻量级微表情识别架构 <br>
-  **计算机科学 (CSCD / CCF-B Chinese Journal)**, 2022. [[pdf](https://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=20830)]
+  **计算机科学 (CSCD / CCF-B Chinese Journal)**, 2022. [[pdf](https://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=20830)] [[code](https://github.com/ECNU-Cross-Innovation-Lab/mini-AORCNN)]
 
   - Feng Liu, Hanyang Wang, **Jiahao Zhang**, Ziwang Fu, Aimin Zhou, Jiayin Qi, Zhibin Li <br>
   EvoGAN: An evolutionary computation assisted GAN <br>
@@ -26,7 +26,7 @@ author_profile: true
 
   - **Jiahao Zhang**, Feng Liu, Aimin Zhou <br>
   Off-TANet: A Lightweight Neural Micro-expression Recognizer with Optical Flow Features and Integrated Attention Mechanism <br>
-  **PRICAI'21 (CCF-C Conference)**, 2021. [[pdf](https://www.researchgate.net/profile/Feng-Liu-152/publication/355545710_Off-TANet_A_Lightweight_Neural_Micro-expression_Recognizer_with_Optical_Flow_Features_and_Integrated_Attention_Mechanism/links/6178fcba0be8ec17a93664e0/Off-TANet-A-Lightweight-Neural-Micro-expression-Recognizer-with-Optical-Flow-Features-and-Integrated-Attention-Mechanism.pdf)]
+  **PRICAI'21 (CCF-C Conference)**, 2021. [[pdf](https://www.researchgate.net/profile/Feng-Liu-152/publication/355545710_Off-TANet_A_Lightweight_Neural_Micro-expression_Recognizer_with_Optical_Flow_Features_and_Integrated_Attention_Mechanism/links/6178fcba0be8ec17a93664e0/Off-TANet-A-Lightweight-Neural-Micro-expression-Recognizer-with-Optical-Flow-Features-and-Integrated-Attention-Mechanism.pdf)] [[code](https://github.com/ECNU-Cross-Innovation-Lab/PRICAI2021-Off-TANet)]
 
   - Ziwang Fu, Feng Liu, **Jiahao Zhang**, Hanyang Wang, Chengyi Yang, Qing Xu, Jiayin Qi, Xiangling Fu, Aimin Zhou <br>
   SAGN: semantic adaptive graph network for skeleton-based human action recognition <br>
