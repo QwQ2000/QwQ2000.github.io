@@ -25,9 +25,7 @@ Data Mining and Machine Learning, with a particular focus on:
 
 Professional Services
 ======
-- PC Member of AAAI'23, AAAI'24, AAAI'25, WWW’24 (Artifact Badging)
-- Reviewer of ACM Transactions on Knowledge Discovery from Data (TKDD)
-- Reviewer of ACM Computing Surveys (CSUR)
-- PC Member of Large Language Models for Graph Learning Workshop @ WWW’24
-- Reviewer of International Workshop on Learning with Knowledge Graphs @ WSDM'23
-- Subreviewer of CIKM'22, WSDM'23, WWW'23
+- **Conference PC Member / Reviewer**: AAAI'23, AAAI'24, AAAI'25, WWW’24 (Artifact Badging), WISE'24, KDD'25
+- **Journal Reviewer**: ACM Transactions on Knowledge Discovery from Data (TKDD), ACM Computing Surveys (CSUR)
+- **Workshop PC Member / Reviewer**: International Workshop on Learning with Knowledge Graphs @ WSDM'23, Large Language Models for Graph Learning Workshop @ WWW’24
+- **Subreviewer**: CIKM'22, WSDM'23, WWW'23
