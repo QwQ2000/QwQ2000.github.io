@@ -10,7 +10,7 @@ author_profile: true
 
   - **Jiahao Zhang\***, Rui Xue\*, Wenqi Fan, Xu Xin, Qing Li, Jian Pei, Xiaorui Liu  <br>
   Linear-Time Graph Neural Networks for Scalable Recommendations <br>
-  **The Web Conference (WWW'24**), 2024. [[pdf](https://arxiv.org/pdf/2402.13973.pdf)] [[code](https://github.com/QwQ2000/TheWebConf24-LTGNN-PyTorch)]
+  **The Web Conference (WWW'24**), 2024. [[pdf](https://arxiv.org/pdf/2402.13973.pdf)] [[code](https://github.com/QwQ2000/TheWebConf24-LTGNN-PyTorch)] [[PaperWeekly (Chinese)](https://mp.weixin.qq.com/s/PEFd5D9SZdZXE5TQcUDdqA)]
   
   - Feng Liu, Hanyang Wang, Siyuan Shen, Xun Jia, Jingyi Hu, **Jiahao Zhang**, Xiyi Wang, Ying Lei, Aimin Zhou, Jiayin Qi, Zhibin Li <br>
   OPO-FCM: A Computational Affection Based OCC-PAD-OCEAN Federation Cognitive Modeling Approach <br>
