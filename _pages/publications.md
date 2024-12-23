@@ -4,6 +4,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+### Preprints 
+
+- Chengyi Liu, **Jiahao Zhang**, Shijie Wang, Wenqi Fan, Qing Li <br>
+Score-based Generative Diffusion Models for Social Recommendations <br>
+**arXiv preprint arXiv:2412.15579**, 2024. [[pdf](https://arxiv.org/pdf/2412.15579)]
+
+- Ziwang Fu, Feng Liu, Hanyang Wang, Siyuan Shen, **Jiahao Zhang**, Jiayin Qi, Xiangling Fu, Aimin Zhou <br>
+LMR-CBT: Learning modality-fused representations with CB-transformer for multimodal emotion recognition from unaligned multimodal sequences <br>
+**arXiv preprint arXiv:2112.01697**, 2021. [[pdf](https://arxiv.org/pdf/2112.01697)]
+  
+### Publications
+
   - **Jiahao Zhang** <br>
   Towards Efficient Graph Neural Networks for Large-scale recommender systems <br>
   **The Hong Kong Polytechnic University (Thesis)**, 2024. [[pdf](https://github.com/QwQ2000/QwQ2000.github.io/blob/master/files/Jiahao_Zhang_Thesis_PolyU_2024.pdf)]
