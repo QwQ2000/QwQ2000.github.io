@@ -9,7 +9,7 @@ author_profile: true
 
 - Chengyi Liu, **Jiahao Zhang**, Shijie Wang, Wenqi Fan, Qing Li <br>
 Score-based Generative Diffusion Models for Social Recommendations <br>
-**arXiv preprint arXiv:2412.15579**, 2024. [[pdf](https://arxiv.org/pdf/2412.15579)]
+**arXiv preprint arXiv:2412.15579**, 2024. [[pdf](https://arxiv.org/pdf/2412.15579)] [[code](https://github.com/Anonymous-CodeRepository/Score-based-Generative-Diffusion-Models-for-Social-Recommendations-SGSR)]
 
 - Ziwang Fu, Feng Liu, Hanyang Wang, Siyuan Shen, **Jiahao Zhang**, Jiayin Qi, Xiangling Fu, Aimin Zhou <br>
 LMR-CBT: Learning modality-fused representations with CB-transformer for multimodal emotion recognition from unaligned multimodal sequences <br>
