@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Preprints 
+## Preprints 
 
 - Chengyi Liu, **Jiahao Zhang**, Shijie Wang, Wenqi Fan, Qing Li <br>
 Score-based Generative Diffusion Models for Social Recommendations <br>
@@ -15,7 +15,7 @@ Score-based Generative Diffusion Models for Social Recommendations <br>
 LMR-CBT: Learning modality-fused representations with CB-transformer for multimodal emotion recognition from unaligned multimodal sequences <br>
 **arXiv preprint arXiv:2112.01697**, 2021. [[pdf](https://arxiv.org/pdf/2112.01697)]
   
-### Publications
+## Publications
 
   - **Jiahao Zhang** <br>
   Towards Efficient Graph Neural Networks for Large-scale recommender systems <br>
