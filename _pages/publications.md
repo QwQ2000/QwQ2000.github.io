@@ -23,7 +23,7 @@ LMR-CBT: Learning modality-fused representations with CB-transformer for multimo
 
   - **Jiahao Zhang** <br>
   Towards Efficient Graph Neural Networks for Large-scale recommender systems <br>
-  **The Hong Kong Polytechnic University (Thesis)**, 2024. [[pdf](https://github.com/QwQ2000/QwQ2000.github.io/blob/master/files/Jiahao_Zhang_Thesis_PolyU_2024.pdf)]
+  **The Hong Kong Polytechnic University (Thesis)**, 2024. [[pdf](https://theses.lib.polyu.edu.hk/handle/200/13533)]
 
   - **Jiahao Zhang**, Lin Wang, Shijie Wang, Wenqi Fan<br>
   Graph Unlearning with Efficient Partial Retraining <br>
@@ -31,7 +31,7 @@ LMR-CBT: Learning modality-fused representations with CB-transformer for multimo
 
   - **Jiahao Zhang\***, Rui Xue\*, Wenqi Fan, Xu Xin, Qing Li, Jian Pei, Xiaorui Liu  <br>
   Linear-Time Graph Neural Networks for Scalable Recommendations <br>
-  **The Web Conference (WWW'24)**, 2024. [[pdf](https://arxiv.org/pdf/2402.13973.pdf)] [[code](https://github.com/QwQ2000/TheWebConf24-LTGNN-PyTorch)] [[slides](https://drive.google.com/file/d/1jnGkJvdLuRfICGjGfVxta59ecr08J61T/view?usp=sharing)] [[thesis extension](https://github.com/QwQ2000/QwQ2000.github.io/blob/master/files/Jiahao_Zhang_Thesis_PolyU_2024.pdf)] [[UQ-DS-Seminar](https://uq-ds-seminar.github.io/longrangerecsys-jiahao)] [[PaperWeekly (Chinese)](https://mp.weixin.qq.com/s/PEFd5D9SZdZXE5TQcUDdqA)]
+  **The Web Conference (WWW'24)**, 2024. [[pdf](https://arxiv.org/pdf/2402.13973.pdf)] [[code](https://github.com/QwQ2000/TheWebConf24-LTGNN-PyTorch)] [[slides](https://drive.google.com/file/d/1jnGkJvdLuRfICGjGfVxta59ecr08J61T/view?usp=sharing)] [[thesis extension](https://theses.lib.polyu.edu.hk/handle/200/13533)] [[UQ-DS-Seminar](https://uq-ds-seminar.github.io/longrangerecsys-jiahao)] [[PaperWeekly (Chinese)](https://mp.weixin.qq.com/s/PEFd5D9SZdZXE5TQcUDdqA)]
   
   - Feng Liu, Hanyang Wang, Siyuan Shen, Xun Jia, Jingyi Hu, **Jiahao Zhang**, Xiyi Wang, Ying Lei, Aimin Zhou, Jiayin Qi, Zhibin Li <br>
   OPO-FCM: A Computational Affection Based OCC-PAD-OCEAN Federation Cognitive Modeling Approach <br>
