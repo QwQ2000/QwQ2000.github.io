@@ -34,4 +34,4 @@ Awards
 ======
 - Outstanding Graduates of the East China Normal University, 2022
 - Best Poster Award - PolyU COMP Research Student Conference, 2024
-- Excellent Reviewer of KDD'25, 2025
+- Outstanding Reviewer of KDD'25, 2025
