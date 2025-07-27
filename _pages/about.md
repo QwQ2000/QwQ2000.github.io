@@ -27,8 +27,10 @@ Professional Services
 - **Workshop PC Member / Reviewer**: International Workshop on Learning with Knowledge Graphs @ WSDM'23, Large Language Models for Graph Learning Workshop @ WWW’24
 - **Subreviewer**: CIKM'22, WSDM'23, WWW'23, SDM'25, SIGIR'25
 
+<!--
 Awards
 ======
 - Outstanding Graduates of the East China Normal University, 2022
 - Best Poster Award - PolyU COMP Research Student Conference, 2024
 - Outstanding Reviewer of KDD'25, 2025
+-->
