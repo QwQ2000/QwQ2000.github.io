@@ -12,9 +12,6 @@ Jiahao Zhang is currently a first-year PhD student at [the College of Informatio
 
 From 2021 to 2022, he was a research intern of the AI Education group and the [OpenMMLab](https://openmmlab.com/) group in the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). In 2022, he also participated as a research intern in the THU-UW [ACSP Summer Program](https://gixnetwork.org/community/outreach-programs/access-computing/). He has published some research papers in journals and conference proceedings during his undergraduate and master's studies [[Google Scholar](https://scholar.google.com.hk/citations?user=x-zjaj4AAAAJ)].
 
-Email: jiahao.zhang@psu.edu, zjh20000218@163.com, tony-jiahao.zhang@connect.polyu.hk, 10185102243@stu.ecnu.edu.cn
-
-
 Research Interest
 ======
 Data Mining and Machine Learning, with a particular focus on:
