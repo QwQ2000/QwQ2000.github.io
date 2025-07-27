@@ -20,6 +20,7 @@ Data Mining and Machine Learning, with a particular focus on:
   - Trustworthy Machine Learning
   - CV, Affective Computing, etc.
 
+<!--
 Professional Services
 ======
 - **Conference PC Member / Reviewer**: AAAI'23, AAAI'24, AAAI'25, WWW’24 (Artifact Badging), WISE'24, KDD'25, WWW'25 (Demo Track)
@@ -27,7 +28,7 @@ Professional Services
 - **Workshop PC Member / Reviewer**: International Workshop on Learning with Knowledge Graphs @ WSDM'23, Large Language Models for Graph Learning Workshop @ WWW’24
 - **Subreviewer**: CIKM'22, WSDM'23, WWW'23, SDM'25, SIGIR'25
 
-<!--
+
 Awards
 ======
 - Outstanding Graduates of the East China Normal University, 2022
